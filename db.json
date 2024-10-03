@@ -1,0 +1,61 @@
+{
+  "teachers": [
+    {
+      "name": "Ale",
+      "last_name": "Sanchez",
+      "courses": [
+        {
+          "name": "Spanish"
+        },
+        {
+          "name": "Social Studies"
+        },
+        {
+          "name": "Math"
+        }
+      ],
+      "id": "bec1"
+    },
+    {
+      "id": "530a",
+      "name": "Flor",
+      "last_name": "Rivas",
+      "courses": [
+        {
+          "name": "Biology"
+        }
+      ]
+    }
+  ],
+  "students": [
+    {
+      "name": "Daniel",
+      "last_name": "Cascante",
+      "prom": 10,
+      "id": "27f0"
+    },
+    {
+      "name": "Kenneth",
+      "last_name": "Hernandez",
+      "prom": 8.2,
+      "id": "fc0d"
+    }
+  ],
+  "courses": [
+    {
+      "name": "Math",
+      "difficulty": 4,
+      "id": "285b"
+    },
+    {
+      "name": "Spanish",
+      "difficulty": 1,
+      "id": "8a96"
+    },
+    {
+      "name": "Social Studies",
+      "difficulty": 5,
+      "id": "9e20"
+    }
+  ]
+}

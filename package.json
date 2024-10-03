@@ -1,0 +1,14 @@
+{
+  "name": "practica-json-server-node",
+  "version": "0.0.1",
+  "description": "Little server with courses",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Daniel Cascante",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
